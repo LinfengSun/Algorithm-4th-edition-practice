@@ -30,6 +30,6 @@ public class BinarySearch
     int key = StdIn.readInt();
     if (rank(key, whitelist) < 0)
     StdOut.println(key);
+    }
   }
- }
 }
